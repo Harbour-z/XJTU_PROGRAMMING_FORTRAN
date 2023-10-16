@@ -1,7 +1,7 @@
 PROGRAM shangji5
 IMPLICIT NONE
 integer::L1=10,L2=30,L3=16,L4=13,L5=21,L6=14,L7=20,L8=36,L9=28
-print*,'六边形的面积为：',area(L1,L2,L3,L4,L5,L6,L7,L8,L9)
+print*,'脕霉卤脽脨脦碌脛脙忙禄媒脦陋拢潞',area(L1,L2,L3,L4,L5,L6,L7,L8,L9) 
 
 	CONTAINS
 		FUNCTION AREA(L1,L2,L3,L4,L5,L6,L7,L8,L9)
