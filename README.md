@@ -6,4 +6,4 @@
 * 此pyplot_module.f90文件一个调用python在Fortran中画图的模块
 
 
-！[非常喜欢的一个球星](https://github.com/Harbour-z/XJTU_PROGRAMMING_FORTRAN/blob/main/Pics/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231013003221.jpg)
+<img src="https://github.com/Harbour-z/XJTU_PROGRAMMING_FORTRAN/blob/main/Pics/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231013003221.jpg" alt="石宇奇" title="非常喜欢的球星">
